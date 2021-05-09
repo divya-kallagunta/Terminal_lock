@@ -1,2 +1,2 @@
 # Terminal_lock
-git clone 
+git clone https://github.com/divya-kallagunta/Terminal_lock
